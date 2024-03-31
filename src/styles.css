@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#btn-calcular {
+  margin-bottom: 30px;
+}
+
+#iconCheckCalcular {
+  padding-left: 10px;
+}
+
+#editTrash {
+  display: flex;
+  justify-content: space-evenly;
+}
+#iconEdit,
+#iconTrash {
+  padding-left: 10px;
+}
